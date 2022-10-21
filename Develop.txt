@@ -1,1 +1,4 @@
 Development started.
+Added feature 1 to DEVELOP branch.
+Release 1 scheduled.
+Release v1.0. Added to DEVELOP branch.
